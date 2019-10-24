@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="stylesheet.css">
-    <script type="text/javascript" src="javascript.js"></script>
     <title>電卓</title>
   </head>
   <body>
