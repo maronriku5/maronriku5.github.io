@@ -1,4 +1,3 @@
-<?php $kotae=0 ?>
 <!DOCTYPE html>
 <html lang="PHP" dir="ltr">
   <head>
